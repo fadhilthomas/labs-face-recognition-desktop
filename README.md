@@ -1,1 +1,2 @@
-# desktop-face_recognition_template_matching
+# Desktop_FaceRecognitionTemplateMatching
+Face Recognition Template Matching Demo
